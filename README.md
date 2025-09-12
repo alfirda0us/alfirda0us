@@ -19,8 +19,8 @@ With a deep interest in **software engineering and web technologies**, I focus o
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alfirda0us&show_icons=true&hide_border=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfirda0us&layout=compact&hide_border=true&theme=dark&title_color=00ff7f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alfirda0us&show_icons=true&hide_border=true&theme=dark&title_color=006400&icon_color=228B22&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfirda0us&layout=compact&hide_border=true&theme=dark&title_color=006400&text_color=c9d1d9&bg_color=0d1117" height="150"/>
 </p>
 
 ---
