@@ -1,6 +1,6 @@
 # Hi, I'm **alfirda0us** 👋
 
-![Banner](https://i.pinimg.com/1200x/42/d1/a5/42d1a5bfbe20682a1b76dc47262d7f96.jpg)  
+![Banner](https://i.pinimg.com/736x/46/36/08/4636089df8262d6b6863e43edf1e54b9.jpg)  
 
 Junior Software Engineer | IT Enthusiast 
 
