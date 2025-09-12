@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kenzie 👋
 
-<!--
-**alfirda0us/alfirda0us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web & Mobile Developer | UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+I love building apps, designing clean user experiences, and learning new technologies.  
+Currently studying at **IDN Boarding School** while working on projects in **web, mobile, and design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Web: HTML, CSS, JavaScript, React  
+- Mobile: Flutter, Thunkable, Kodular  
+- Design: Figma, Canva  
+- Tools: Git, GitHub, WordPress  
+
+---
+
+## Projects
+- **EcoBoost** – Sustainability awareness app  
+- **SpeakUp** – Anti-bullying school app  
+- **Riyyan Travel** – Flutter travel app prototype  
+- **Parallel World Simulator** – Nonlinear adventure game  
+- **Noon Moslem Wear** – Muslim fashion brand project  
+
+---
+
+## Contact
+- LinkedIn: Kenzie A. Firdaus(#)  
+- Email: kenzie.ahnaffirdaus@gmail.com  
+- Website: alfirda0us.github.io/portofolio/(#)  
+
+---
