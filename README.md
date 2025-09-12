@@ -1,9 +1,9 @@
 # Hi, I'm Kenzie 👋
 
-Junior Web & Mobile Developer | UI/UX Enthusiast  
+Junior Software Engineer | IT Enthusiast 
 
-I love building apps, designing clean user experiences, and learning new technologies.  
-Currently studying at **IDN Boarding School** while working on projects in **web, mobile, and design**.
+I am Kenzie Ahnaf Firdaus, a passionate Junior Web Developer currently pursuing my education at **IDN Boarding School**. 
+With a keen interest in web technologies, I am dedicated to building creative and functional web solutions.
 
 ---
 
