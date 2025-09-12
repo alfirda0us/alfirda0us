@@ -27,9 +27,9 @@ With a deep interest in **software engineering and web technologies**, I focus o
 ---
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/alfirdaous/)  
-- [Portfolio](https://alfirda0us.github.io/portofolio/)  
-- **Email:** kenzie.ahnaffirdaus@gmail.com  
+- **LinkedIn  :**[Kenzie A. Firdaus](https://www.linkedin.com/in/alfirdaous/)
+- **Email     :** kenzie.ahnaffirdaus@gmail.com  
+- **Website   :**[Portfolio](https://alfirda0us.github.io/portofolio/)  
 
 ---
-*“Discipline, focus, and persistence are the foundations of mastery.”*
+*"Preoccupied with a single leaf... you won't see the tree,"*
