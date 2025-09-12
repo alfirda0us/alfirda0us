@@ -16,8 +16,8 @@ Currently studying at **IDN Boarding School** while working on projects in **web
 ---
 
 ## Contact
-- LinkedIn: Kenzie A. Firdaus(#)  
+- LinkedIn: Kenzie A. Firdaus(linkedin.com/in/alfirdaous/)  
 - Email: kenzie.ahnaffirdaus@gmail.com  
-- Website: alfirda0us.github.io/portofolio/(#)  
+- Website: Personal Website(alfirda0us.github.io/portofolio/)  
 
 ---
