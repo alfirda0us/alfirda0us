@@ -18,6 +18,8 @@ With a keen interest in web technologies, I am dedicated to building creative an
 ## Contact
 - LinkedIn  : [Kenzie Ahnaf Firdaus](https://www.linkedin.com/in/alfirdaous/)
 - Email     : kenzie.ahnaffirdaus@gmail.com  
-- Website   : [Portfolio](alfirda0us.github.io/portofolio/)  
+- Website   : [My Personal Website](alfirda0us.github.io/portofolio/)  
 
 ---
+
+![Banner](https://i.pinimg.com/1200x/ed/a4/52/eda45229045833e8a6baef13bbb4e3d8.jpg)  
