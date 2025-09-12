@@ -18,6 +18,12 @@ With a deep interest in **software engineering and web technologies**, I focus o
 
 ---
 
+### Connect
+- **LinkedIn  :**[Kenzie A. Firdaus](https://www.linkedin.com/in/alfirdaous/)
+- **Email     :** kenzie.ahnaffirdaus@gmail.com  
+- **Website   :**[Portfolio](https://alfirda0us.github.io/portofolio/)  
+
+---
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=alfirda0us&show_icons=true&hide_border=true&theme=dark&title_color=00ff7f&icon_color=00ff7f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfirda0us&layout=compact&hide_border=true&theme=dark&title_color=00ff7f&text_color=c9d1d9&bg_color=0d1117" height="150"/>
@@ -25,10 +31,4 @@ With a deep interest in **software engineering and web technologies**, I focus o
 
 ---
 
-### Connect
-- **LinkedIn  :**[Kenzie A. Firdaus](https://www.linkedin.com/in/alfirdaous/)
-- **Email     :** kenzie.ahnaffirdaus@gmail.com  
-- **Website   :**[Portfolio](https://alfirda0us.github.io/portofolio/)  
-
----
 *"Preoccupied with a single leaf... you won't see the tree,"*
