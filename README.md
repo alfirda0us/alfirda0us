@@ -15,15 +15,6 @@ Currently studying at **IDN Boarding School** while working on projects in **web
 
 ---
 
-## Projects
-- **EcoBoost** – Sustainability awareness app  
-- **SpeakUp** – Anti-bullying school app  
-- **Riyyan Travel** – Flutter travel app prototype  
-- **Parallel World Simulator** – Nonlinear adventure game  
-- **Noon Moslem Wear** – Muslim fashion brand project  
-
----
-
 ## Contact
 - LinkedIn: Kenzie A. Firdaus(#)  
 - Email: kenzie.ahnaffirdaus@gmail.com  
