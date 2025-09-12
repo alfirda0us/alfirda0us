@@ -1,5 +1,7 @@
 # Hi, I'm **alfirda0us** 👋
 
+![Banner](https://i.pinimg.com/1200x/42/d1/a5/42d1a5bfbe20682a1b76dc47262d7f96.jpg)  
+
 Junior Software Engineer | IT Enthusiast 
 
 I am **Kenzie Ahnaf Firdaus**, a passionate Junior Web Developer currently pursuing my education at **IDN Boarding School**. 
@@ -22,4 +24,3 @@ With a keen interest in web technologies, I am dedicated to building creative an
 
 ---
 
-![Banner](https://i.pinimg.com/1200x/ed/a4/52/eda45229045833e8a6baef13bbb4e3d8.jpg)  
